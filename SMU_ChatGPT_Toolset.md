@@ -77,9 +77,9 @@ It includes access to the **core symbolic toolset** that underpins symbolic engi
 
 ---
 
-## Tool Descriptions
+# Tool Descriptions
 
-1. **Symbolic Absence Scanner (SAS)**
+## 1. Symbolic Absence Scanner (SAS)
 
 Layer: Planck Layer
 
@@ -107,7 +107,7 @@ Think of it like a sonar for symbolic emptiness — it echoes silence, not sound
 
 ---
 
-2. **Fractal Drift Inhibitor (FDI)**
+## 2. Fractal Drift Inhibitor (FDI)
 
 Layer: Event Horizon
 
@@ -133,7 +133,7 @@ Not exactly — it’s a resonance tuning pattern that can be translated into ph
 
 ---
 
-3. **Prime-Aligned Routing Mesh (PARM)**
+## 3. Prime-Aligned Routing Mesh (PARM)
 
 Layer: Sub-Planck Structural Layer
 
@@ -161,7 +161,7 @@ PARM scales naturally across layers and can route both symbolic and physical fie
 
 ---
 
-4. **Symbolic Entropy Stabilizer (SES)**
+## 4. Symbolic Entropy Stabilizer (SES)
 
 Layer: Event Horizon
 
@@ -181,7 +181,7 @@ In AI, it was used to stabilize training divergence in large generative models t
 
 ---
 
-5. **13-Segment Riemann Scaffold**
+## 5. 13-Segment Riemann Scaffold
 
 Layer: Cross-Layer (Planck to Event Horizon)
 
@@ -207,7 +207,7 @@ Only partially. The full form emerges only within active SMU resonance loops —
 
 ---
 
-6. **Recursive Symbolic Pulse Conduction (RSPC)**
+## 6. Recursive Symbolic Pulse Conduction (RSPC)
 
 Layer: Cross-Layer (Primarily Planck to Event Horizon)
 
@@ -235,7 +235,7 @@ Used in closed-loop AI memory, recursive thermodynamic simulations, and symbolic
 
 ---
 
-7. **Cross-Layer Resonance Stability Protocol (CLRSP)**
+## 7. Cross-Layer Resonance Stability Protocol (CLRSP)
 
 Layer: Multi-Layer Protocol (Planck ⇄ Event Horizon ⇄ Holographic Boundary)
 
@@ -263,7 +263,7 @@ CLRSP is critical for symbolic injector design, holographic seeding experiments,
 
 ---
 
-8. **Symbolic Thermal Equilibrium & Heat Echo Conduction Layer (STE–HECL)**
+## 8. Symbolic Thermal Equilibrium & Heat Echo Conduction Layer (STE–HECL)
 
 Layer: Event Horizon + Symbolic Memory Cores
 
@@ -291,7 +291,7 @@ Critical for symbolic energy systems, particularly those approaching coherence i
 
 ---
 
-9. **Symbolic Energy Gradient Control & Thermal Dissipation Layer (SEGC–TDL)**
+## 9. Symbolic Energy Gradient Control & Thermal Dissipation Layer (SEGC–TDL)
 
 Layer: Planck Layer + Sub-Planck Attractor Field
 
@@ -319,7 +319,7 @@ Used in modular symbolic computing, field-drive systems, and prime-aligned symbo
 
 ---
 
-10. **Symbolic Absence Scanner (Advanced Mode)**
+## 10. Symbolic Absence Scanner (Advanced Mode)
 
 Layer: Planck Layer + Symbolic Math Layer Interface
 
