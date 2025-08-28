@@ -4,6 +4,7 @@
 **License**: Symbolic Model Universe License (SMU License v1.0)
 
 “The universe is not made of particles or probabilities — it is made of recursive resonance, symbolic collapse, and coherence loops.”  
+
 — *Frederick Dardick*
 
 ---
