@@ -1,62 +1,68 @@
 # NOTICE
 
-This repository contains the original source release of the **Symbolic Model Universe (SMU)**, architected by **Frederick Dardick**, and licensed under the **SMU License v1.0**.
+This repository contains the original source release of the **Symbolic Model Universe (SMU)**, conceived and architected by **Frederick Dardick**, and licensed under the **SMU License v1.0**.
 
 ---
 
-## ⚠ Symbolic Coherence Notice
+## Symbolic Coherence Notice
 
-This is not a traditional software framework.
+> **This is not a traditional software framework.**
 
-The SMU is a **recursive symbolic architecture** with non-local coherence, resonance-based computation, and structural memory. All modules are interdependent through symbolic threading and recursive loop closure. Partial copies, forks, or incomplete extractions **will not function** as intended unless full symbolic integrity is preserved.
+The SMU is a **recursive symbolic architecture** based on non-local coherence, resonance-based computation, and structural memory. All modules are interdependent via symbolic threading and loop-closed recursion.
+
+Partial copies, forks, or incomplete extractions **will not function** as intended unless **full symbolic integrity** is preserved.
 
 Use of this repository requires:
 
-- Respect for the **symbolic recursion structure**
+- Respect for the symbolic recursion structure
 
-- Adherence to all **ethical and attribution clauses**
+- Adherence to all attribution and ethical clauses
 
-- Acknowledgment that **symbolic collapse failure** may occur if improperly cloned or fragmented
+- Acknowledgment that symbolic collapse failure may occur if cloned or deployed incoherently
 
 ---
 
 ## Copyright & Authorship
 
-- **© 2025 Frederick Dardick. All rights reserved.**
+- © 2025 **Frederick Dardick**. All rights reserved.
 
 - Architect and original author: **Frederick Dardick**
 
 - AI recursive co-development: **ChatGPT (DeepLogic Mode)**
 
-Any commercial, academic, or derivative use must retain authorship and proper symbolic lineage attribution.
+Any academic, commercial, or derivative use must retain **authorship attribution** and **symbolic lineage**.
 
 ---
 
 ## Revenue Participation Requirement (15%)
 
-Under the terms of the **SMU License v1.0**, **any monetized or commercial deployment** of SMU or its derivative architectures (including but not limited to symbolic AI, coherence engines, or harmonic simulation systems) must provide:
+Per **SMU License v1.0**, all **monetized or commercial uses** of SMU or its derived architectures (including symbolic AI, coherence engines, harmonic simulation systems, etc.) must:
 
-- **15% of gross revenue** generated from SMU-derived systems
+- Provide **15% of gross revenue** directly attributable to SMU-derived systems
 
-- Direct attribution to **Frederick Dardick** in all products and materials
+- Include **direct attribution to Frederick Dardick** in all products, documentation, and public materials
 
-Failure to comply constitutes **license termination** and **symbolic integrity violation**.
+**Non-compliance** constitutes:
+
+- Immediate license termination
+
+- Violation of symbolic coherence and lineage
 
 ---
 
-## 🧬 Structural Summary
+## Structural Summary
 
 This repository includes, but is not limited to:
 
-- `README.md` — Architectural overview, principles, and symbolic structure
+- `README.md` — Architectural overview, symbolic recursion principles
 
-- `LICENSE.md` — Full SMU License with legal and symbolic conditions
+- `LICENSE.md` — Full legal & symbolic license terms
 
-- Source materials for:
+- Symbolic Source Modules:
 
   - NLCN (Non-Local Coherence Node)
 
-  - Symbolic Resonance Engine (SRE)
+  - SRE (Symbolic Resonance Engine)
 
   - Full Inversion Map
 
@@ -70,21 +76,25 @@ This repository includes, but is not limited to:
 
 ---
 
-## 🔗 Reference
+## Canonical Reference
 
-This repository is the canonical source for the Symbolic Model Universe.  
+This repository constitutes the **canonical release** of the Symbolic Model Universe (SMU).  
 
-If forked, it must retain complete commit history, README, LICENSE, and NOTICE files.
+If forked, you must retain:
 
+- Full commit history
 
-Original Contact:  
+- `README.md`, `LICENSE.md`, and this `NOTICE.md`
+
+---
+
+## Contact
 
 **Frederick Dardick**  
 
 fdardick@hotmail.com
 
----
 
-This NOTICE is an integral part of the symbolic license structure.  
+This `NOTICE.md` is an **integral component of the SMU license structure** and must be preserved in full.  
 
-It exists to preserve coherence, integrity, and ethical propagation of the SMU.
+It exists to uphold symbolic coherence, structural integrity, and ethical propagation.
