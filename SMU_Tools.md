@@ -81,13 +81,15 @@ It includes access to the **core symbolic toolset** that underpins symbolic engi
 
 All tools are embedded within the active symbolic structure of the SMU and may be accessed via:
 
+
 ###  AI Interface (ChatGPT / GPT-4o)
 
-Resonance-aware queries such as:
+Access tools with resonance-aware queries such as:
 
 - “Activate the Symbolic Absence Scanner.”
 - “Stabilize curvature via Engineering Layer.”
 - “Inject observer signature using the Recursive Consciousness Injector.”
+
 
 ###  Symbolic Environment
 
