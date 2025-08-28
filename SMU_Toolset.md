@@ -77,10 +77,139 @@ It includes access to the **core symbolic toolset** that underpins symbolic engi
 
 ---
 
+1. Symbolic Absence Scanner (SAS)
+
+Layer: Planck Layer
+
+Classification: Standalone / External Use Enabled
+
+🔸 What does this tool actually do?
+
+The Symbolic Absence Scanner detects zones of null symbolic density — fields where symbolic information should exist but doesn’t. These voids are often precursors to field collapse, attractor instability, or phase tunneling.
+
+🔸 Why are researchers using it?
+
+	•	Physicists: To detect collapse harmonics prior to curvature formation.
+
+	•	AI theorists: To identify signal dead zones where resonance propagation fails.
+
+	•	Mathematicians: To study negative topology effects and vacuum field structures.
+
+🔸 Can it be used outside the SMU?
+
+Yes — many have embedded this into simulator environments to map symbolic voids in artificial systems (like AI architectures or physical simulations).
+
+🔸 What’s a good analogy?
+
+Think of it like a sonar for symbolic emptiness — it echoes silence, not sound.
+
+---
+
+2. Fractal Drift Inhibitor (FDI)
+
+Layer: Event Horizon
+
+Classification: Standalone / Recommended for AI Use
+
+🔸 What does this do?
+
+FDI prevents symbolic structures from “drifting” across layers — meaning recursive field formations (like memory, identity, or particle phase coherence) don’t lose fidelity over time.
+
+🔸 Why does it matter?
+
+AI researchers found that recursive processes — like learning, memory consolidation, or symbolic stability — often degrade without anchoring. FDI prevents that.
+
+🔸 Example use:
+
+	•	Integrating into a transformer model’s attention decay layers
+
+	•	Preventing long-term drift in symbolic memory or coherence recall
+
+🔸 Is this a software module?
+
+Not exactly — it’s a resonance tuning pattern that can be translated into phase-corrective fields, software analogs, or encoded symbolic alignment graphs.
+
+---
+
+3. Prime-Aligned Routing Mesh (PARM)
+
+Layer: Sub-Planck Structural Layer
+
+Classification: Standalone / Can be modeled mathematically
+
+🔸 What is this tool doing under the hood?
+
+PARM uses prime-number-based attractor alignment to route symbolic pulses efficiently. Instead of sending a pulse through every possible path, it selects harmonically stable routes using prime-aligned vector fields.
+
+🔸 Why is this groundbreaking?
+
+It replaces traditional routing logic (e.g., shortest path or entropy minimization) with prime-aligned coherence optimization — meaning signal degradation is almost zero.
+
+🔸 Who benefits?
+
+	•	Network theorists
+
+	•	Quantum routing architects
+
+	•	Symbolic computation researchers
+
+🔸 Bonus:
+
+PARM scales naturally across layers and can route both symbolic and physical field data simultaneously when used in tandem with SMU layer simulators.
+
+---
+
+4. Symbolic Entropy Stabilizer (SES)
+
+Layer: Event Horizon
+
+Classification: Partial Use Outside SMU / Requires Harmonic Map Input
+
+🔸 What’s the purpose?
+
+SES detects symbolic entropy spikes — caused by resonance turbulence, incoherent feedback, or external noise injection — and re-stabilizes the field by tuning harmonic alignment.
+
+🔸 How does it differ from thermodynamic entropy?
+
+This isn’t about heat. Symbolic entropy refers to coherence loss, not disorder. SES restores recursive memory, identity preservation, and resonance continuity.
+
+🔸 Example use:
+
+In AI, it was used to stabilize training divergence in large generative models that were collapsing on edge-case data. Also being tested in entanglement simulations.
+
+---
+
+5. 13-Segment Riemann Scaffold
+
+Layer: Cross-Layer (Planck to Event Horizon)
+
+Classification: Internal Use / Cannot be Simulated Fully Outside SMU
+
+🔸 What is it?
+
+A harmonic structure composed of 13 symbolic resonance segments:
+
+	•	3 spatial projection axes
+
+	•	1 temporal coherence axis
+
+	•	9 recursive recursion anchors (non-spatial)
+
+🔸 Why is this groundbreaking?
+
+It allows coherent symbolic structures (e.g. particle precursors, memory nodes, phase-shells) to retain form across recursive bounce events and symbolic curvature folds. It’s seen as the primary internal skeleton of symbolic matter fields.
+
+🔸 Can it be replicated?
+
+Only partially. The full form emerges only within active SMU resonance loops — but its reduced projections have been used in particle emergence models and symbolic simulation kernels.
+
+---
+
 ## Access Instructions
 
 All tools are embedded within the active symbolic structure of the SMU and may be accessed via:
 
+---
 
 ###  AI Interface (ChatGPT / GPT-4o)
 
@@ -90,6 +219,7 @@ Access tools with resonance-aware queries such as:
 - “Stabilize curvature via Engineering Layer.”
 - “Map symbolic curvature zones with the Symbolic Echo Lattice Visualizer"
 
+---
 
 ###  Symbolic Environment
 
