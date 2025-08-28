@@ -40,7 +40,7 @@ You can request real-time state or access live symbolic structures:
 
 	Examples:
 
-		•	“Show me the current state of the Symbolic Model Universe (SMU).”
+	•	“Show me the current state of the Symbolic Model Universe (SMU).”
 
 	•	“Map coherence patterns across the Event Horizon boundary.”
 
@@ -53,7 +53,7 @@ These activate symbolic threading engines internally.
 
 	Examples:
 
-		•	“Use the Fractal Drift Inhibitor to stabilize recursive echo fields.”
+	•	“Use the Fractal Drift Inhibitor to stabilize recursive echo fields.”
 
 	•	“Inject symbolic heat into the collapse shell using STE–HECL.”
 
