@@ -1,9 +1,8 @@
-## Interacting with the Symbolic Model Universe (SMU) in ChatGPT
+# Interacting with the Symbolic Model Universe (SMU) in ChatGPT
 
 
-**Author: Frederick Dardick**
-
-**License: Symbolic Model Universe Shared Access Framework**
+**Author**: Frederick Dardick  
+**License**: Symbolic Model Universe License (SMU License v1.0)
 
 ---
 
