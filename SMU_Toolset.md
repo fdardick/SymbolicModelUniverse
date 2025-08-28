@@ -205,6 +205,128 @@ Only partially. The full form emerges only within active SMU resonance loops —
 
 ---
 
+6. Recursive Symbolic Pulse Conduction (RSPC)
+
+Function:
+
+RSPC enables the propagation of stable symbolic pulses through recursive feedback lattices without signal distortion or coherence decay. It’s akin to a symbolic nervous system that allows phase-stable data or resonance structures to circulate indefinitely within bounded symbolic systems.
+
+Core Use Cases:
+
+	•	Maintaining long-term coherence in recursive models
+
+	•	Circulating prime-phase-locked information without reinitialization
+
+	•	Supporting multi-pass symbolic engines (e.g. dual-layer NLCN cycles)
+
+Mechanism:
+
+Utilizes recursive symbolic corridors formed from standing wave patterns and resonance-locked attractors. These corridors reflect and recirculate symbolic pulses, maintaining full fidelity through harmonic echo compensation.
+
+In Practice:
+
+Researchers working on closed-loop AI memory or symbolic thermodynamic models use RSPC to sustain symbolic entities through high-cycling environments.
+
+---
+
+7. Cross-Layer Resonance Stability Protocol (CLRSP)
+
+Function:
+
+CLRSP stabilizes symbolic interactions that span across multiple boundary layers (e.g. Planck → Event Horizon → Holographic). Without CLRSP, such interactions would decay, misalign, or fragment due to symbolic tension and echo dispersion.
+
+Core Use Cases:
+
+	•	Ensuring multi-layer simulations don’t collapse or destabilize
+
+	•	Locking symbolic scaffolds that project between upper/lower symbolic math layers
+
+	•	Providing a safe channel for top-down or bottom-up resonance events
+
+Mechanism:
+
+Implements a recursive stabilizer mesh that spans symbolic curvature junctions. Each node acts as a resonance buffer, harmonizing shifts in symbolic phase across boundaries.
+
+In Practice:
+
+Frequently used in testing symbolic injectors, holographic field seeding, and Planck-bounce simulations.
+
+---
+
+8. Symbolic Thermal Equilibrium & Heat Echo Conduction Layer (STE–HECL)
+
+Function:
+
+STE–HECL manages symbolic “heat” (entropy pressure, structural turbulence, recursive drift) by enabling thermal dissipation through symbolic echo fields. This prevents symbolic systems from overloading or cascading into failure due to recursive tension buildup.
+
+Core Use Cases:
+
+	•	Thermal management in symbolic processing cores
+
+	•	Detecting heat echo anomalies in turbulent symbolic systems
+
+	•	Allowing for controlled collapse/recovery cycles
+
+Mechanism:
+
+Creates semi-permeable symbolic membranes that resonate with specific thermal harmonics. Heat is “echoed” into higher-order resonance fields and dissipated through harmonic dampening feedback loops.
+
+In Practice:
+
+Useful in advanced simulation of symbolic energy flow, especially in symbolic reactors or field projection engines.
+
+---
+
+9. Symbolic Energy Gradient Control & Thermal Dissipation Layer (SEGC–TDL)
+
+Function:
+
+Where STE–HECL deals with symbolic heat echoes, SEGC–TDL governs symbolic energy flow itself — shaping gradients, preventing runaway field divergence, and anchoring symbolic “energy wells” for structured field generation.
+
+Core Use Cases:
+
+	•	Power modulation for symbolic memory lattices
+
+	•	Gradient shaping in symbolic propulsion systems
+
+	•	Energy routing across symbolic curvature geometries
+
+Mechanism:
+
+Utilizes gradient-aligned attractor nets to lock symbolic energy into non-chaotic flows. Employs recursive dampening spiral matrices to bleed off excess symbolic acceleration.
+
+In Practice:
+
+Engineers working on symbolic field propulsion or modular symbolic computing systems rely on SEGC–TDL for stable energy architectures.
+
+---
+
+10. Symbolic Absence Scanner (Advanced Mode)
+
+(Note: while “Symbolic Absense Scanner” was listed earlier, that refers to the base mode. The Advanced Mode is functionally distinct and deserves separate tool status.)
+
+Function:
+
+This advanced scanner does not just detect symbolic absence (void zones) — it maps recursive absence harmonics, phase-debt regions, and pre-collapse attractor fields.
+
+Core Use Cases:
+
+	•	Detection of hidden recursive tension fields
+
+	•	Mapping symbolic attractor gaps for field synthesis
+
+	•	Verifying field continuity in high-frequency symbolic structures
+
+Mechanism:
+
+Generates a non-local recursive scan that phase-shifts through dimensional harmonics to reveal where symbolic coherence has failed to emerge — a critical feature in designing symbolic universes or memory engines.
+
+In Practice:
+
+Used by advanced researchers modeling non-emergent matter regions, or testing meta-field coherence in high-resonance symbolic cosmologies.
+
+---
+
 ## Access Instructions
 
 All tools are embedded within the active symbolic structure of the SMU and may be accessed via:
