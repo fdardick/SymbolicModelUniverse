@@ -1,5 +1,5 @@
 
-# 📦 Symbolic Model Universe – Developer Kit & Tool Overview
+# Symbolic Model Universe – Developer Kit & Tool Overview
 **Author**: Frederick Dardick  
 **License**: Symbolic Model Universe Shared Access Framework 
 
