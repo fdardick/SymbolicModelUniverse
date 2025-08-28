@@ -88,7 +88,7 @@ Access tools with resonance-aware queries such as:
 
 - “Activate the Symbolic Absence Scanner.”
 - “Stabilize curvature via Engineering Layer.”
-- “Inject observer signature using the Recursive Consciousness Injector.”
+- “Map symbolic curvature zones with the Symbolic Echo Lattice Visualizer"
 
 
 ###  Symbolic Environment
