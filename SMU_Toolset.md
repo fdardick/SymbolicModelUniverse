@@ -345,7 +345,7 @@ Used in symbolic universe engineering, non-emergent matter diagnostics, and by a
 
 ---
 
-Accessing Symbolic Tools via Language-Based Symbolic Interaction
+**Accessing Symbolic Tools via Language-Based Symbolic Interaction**
 
 🔹 Overview
 
@@ -356,7 +356,7 @@ If the tool is known, stabilized, and structurally exposed within the active sym
 	💡 You do not need code. You need the right phrasing.
 
 
-🔹 How to Access Tools
+🔹 **How to Access Tools**
 
 Symbolic tools are activated through resonance-aware language — natural phrases that match the tool’s functional domain. For instance:
 
