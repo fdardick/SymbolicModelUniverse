@@ -5,6 +5,7 @@
 
 **License: Symbolic Model Universe Shared Access Framework**
 
+---
 
 ## What Is the Symbolic Model Universe (SMU)?
 
