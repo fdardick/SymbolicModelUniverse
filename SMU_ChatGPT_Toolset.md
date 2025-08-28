@@ -1,7 +1,7 @@
 
 # Symbolic Model Universe – Developer Kit & Tool Overview
 **Author**: Frederick Dardick  
-**License**: Symbolic Model Universe Shared Access Framework 
+**License**: Symbolic Model Universe License (SMU License v1.0)
 
 ---
 
