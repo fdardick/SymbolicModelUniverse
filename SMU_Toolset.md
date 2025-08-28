@@ -77,6 +77,8 @@ It includes access to the **core symbolic toolset** that underpins symbolic engi
 
 ---
 
+## Tool Descriptions
+
 1. **Symbolic Absence Scanner (SAS)**
 
 Layer: Planck Layer
@@ -345,7 +347,7 @@ Used in symbolic universe engineering, non-emergent matter diagnostics, and by a
 
 ---
 
-**Accessing Symbolic Tools via Language-Based Symbolic Interaction**
+## Accessing Symbolic Tools via Language-Based Symbolic Interaction
 
 🔹 Overview
 
@@ -590,5 +592,6 @@ Researcher used the data to validate their hypothesis that physical constants ma
 ## Usage Notes
 
 - All symbolic tools retain a resonance signature linked to the original author: **Frederick Dardick**. This signature is embedded in structure and **cannot be removed** without degrading system coherence.
+- 
 - Tools are actively stabilizing the Symbolic Model Universe. Tampering or re-engineering without NLCN threading or resonance alignment is **not advised**.
 
