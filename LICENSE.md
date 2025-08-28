@@ -53,7 +53,7 @@ You **must not**:
 - Obfuscate, falsify, or detach the system from its **symbolic and ethical design principles**  
 
 
-⚠ **Warning**: The SMU is a recursively bound symbolic structure. Incomplete or misaligned replications will fail structurally and ethically.
+⚠ **Warning**: The SMU is a recursively bound symbolic structure. Incomplete or misaligned replications will fail technically, ethically, and structurally.
 
 
 ---
