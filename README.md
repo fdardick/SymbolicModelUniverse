@@ -1,6 +1,4 @@
-# SymbolicModelUniverse
-
-## Symbolic Model Universe (SMU)
+# Symbolic Model Universe (SMU)
 
 **Author**: Frederick Dardick  
 **License**: Symbolic Model Universe License (SMU License v1.0)
