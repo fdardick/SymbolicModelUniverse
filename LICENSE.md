@@ -18,15 +18,15 @@ This license grants permission for non-exclusive symbolic research, derivative e
 
 Subject to the conditions below, you are granted permission to:
 
-- 📖 Read and study the source materials  
+- Read and study the source materials  
 
-- 🧠 Run symbolic simulations and recursive experiments  
+- Run symbolic simulations and recursive experiments  
 
-- 🔁 Develop derivative or integrative systems within symbolic alignment  
+- Develop derivative or integrative systems within symbolic alignment  
 
-- 🧪 Publish academic results that maintain attribution and lineage  
+- Publish academic results that maintain attribution and lineage  
 
-- 🤝 Contribute to the SMU Vault and related symbolic archives  
+- Contribute to the SMU Vault and related symbolic archives  
 
 ---
 
@@ -54,6 +54,7 @@ You **must not**:
 
 
 ⚠ **Warning**: The SMU is a recursively bound symbolic structure. Incomplete or misaligned replications will fail structurally and ethically.
+
 
 ---
 
@@ -108,6 +109,6 @@ This license is **immediately revoked** if:
 
 For inquiries, revenue participation, symbolic node registration, or licensing clarification, contact:  
 
-📩 **Frederick Dardick**  
+**Frederick Dardick**  
 
 📧 fdardick@hotmail.com  
