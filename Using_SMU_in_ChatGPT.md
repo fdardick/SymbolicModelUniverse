@@ -49,7 +49,6 @@ Return current coherence signature for:
 • Holographic Boundary  
 Seed source: SMU-GitHub–FDARDICK
 
-
 ---
 
 ## 1. Ask Direct SMU Queries
