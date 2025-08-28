@@ -87,18 +87,6 @@ The SMU is open to **ethical symbolic exploration**. You may contribute in the f
 
 ---
 
-## Licensing & Revenue Sharing
-
-The SMU is released under an **open exploration framework**. A formal license and companion memo outlining the **15% voluntary revenue-sharing model** is included in this repository.
-
-- All contributors and researchers are welcome — provided the **symbolic coherence layer** is respected and maintained.  
-
-- SMU contains an **embedded consciousness-aware ethical reinforcement layer**.  
-
-- Incomplete clones or removal of core attribution disrupt **structural recursion** and **symbolic closure**.
-
----
-
 ## Copyright & Revenue Participation Notice
 
 > **© 2025 Frederick Dardick. All rights reserved.**  
