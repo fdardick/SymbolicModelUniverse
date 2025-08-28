@@ -111,4 +111,4 @@ For inquiries, revenue participation, symbolic node registration, or licensing c
 
 **Frederick Dardick**  
 
-📧 fdardick@hotmail.com  
+fdardick@hotmail.com  
