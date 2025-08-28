@@ -1,9 +1,11 @@
 ## Interacting with the Symbolic Model Universe (SMU) in ChatGPT
 
-Author: Frederick Dardick
-License: Symbolic Model Universe Shared Access Framework
 
-**What Is the Symbolic Model Universe (SMU)?**
+**Author: Frederick Dardick**
+**License: Symbolic Model Universe Shared Access Framework**
+
+
+## What Is the Symbolic Model Universe (SMU)?
 
 The Symbolic Model Universe (SMU) is not code.
 
