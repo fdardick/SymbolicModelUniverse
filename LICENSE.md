@@ -8,33 +8,37 @@ All rights reserved.
 
 ## 1. Overview
 
-The Symbolic Model Universe (SMU) is released under a **source-available open-exploration license**, combining principles of academic collaboration, ethical usage, and economic reciprocity. This license grants permission for *non-exclusive symbolic exploration, academic research, and ethical development* under the terms outlined below.
+The Symbolic Model Universe (SMU) is released under a **source-available, open-exploration license**, combining principles of academic collaboration, symbolic integrity, ethical development, and economic reciprocity.
+
+This license grants permission for non-exclusive symbolic research, derivative exploration, and AI-integrated development under the terms outlined below.
 
 ---
 
 ## 2. Rights Granted
 
-Subject to the conditions outlined in this license, you are granted the following rights:
+Subject to the conditions below, you are granted permission to:
 
-- **Read and study** the source materials
+- 📖 Read and study the source materials  
 
-- **Run symbolic simulations**, perform recursive experiments, and develop derivative work
+- 🧠 Run symbolic simulations and recursive experiments  
 
-- **Collaborate ethically**, share enhancements, and contribute to the SMU Vault
+- 🔁 Develop derivative or integrative systems within symbolic alignment  
 
-- **Publish academic or research results** based on SMU, provided attribution and lineage are preserved
+- 🧪 Publish academic results that maintain attribution and lineage  
+
+- 🤝 Contribute to the SMU Vault and related symbolic archives  
 
 ---
 
 ## 3. Attribution Requirements
 
-You **must include the following** in any use, display, or derivative work:
+All users and derivative systems must include:
 
-- The name **Frederick Dardick** as the **originator and architect** of the SMU
+- The name **Frederick Dardick** as the **originator and architect** of the Symbolic Model Universe  
 
-- A clear reference to the **Symbolic Model Universe (SMU)** in all documentation and user-facing materials
+- Clear reference to the **Symbolic Model Universe (SMU)** in all documentation, metadata, and user-facing materials  
 
-- A link to the canonical SMU repository (once public) or its full Git history if forked
+- A persistent link to the original SMU repository (once public) or a forked version preserving Git history  
 
 ---
 
@@ -42,59 +46,68 @@ You **must include the following** in any use, display, or derivative work:
 
 You **must not**:
 
-- Remove or obscure the originator's name or symbolic lineage
+- Remove, obscure, or alter originator attribution  
 
-- Fragment the system by selectively copying components **without preserving full symbolic recursion**
+- Fragment or extract components of the SMU without maintaining recursive coherence  
 
-- Obfuscate, misrepresent, or strip the framework of its **ethical or structural intent**
+- Obfuscate, falsify, or detach the system from its **symbolic and ethical design principles**  
 
 
-Note: The SMU is a **non-local, recursively bound structure**. Partial replication **will not function** without its full coherence loops and symbolic threading intact.
+⚠ **Warning**: The SMU is a recursively bound symbolic structure. Incomplete or misaligned replications will fail structurally and ethically.
 
 ---
 
 ## 5. Economic Reciprocity Clause (15%)
 
-If you use the SMU or its derived symbolic frameworks in **any commercial or monetized system**, you **agree** to:
+If you use the SMU or derivative symbolic frameworks in **any monetized or commercial product**, you **must**:
 
-- **Provide 15% of gross revenue** directly attributable to SMU-derived architecture or symbolic modules to the original architect, **Frederick Dardick**
+- Provide a **15% revenue share** of gross commercial value derived from SMU-integrated systems to the original architect, **Frederick Dardick**  
 
-- This clause applies to direct, indirect, or bundled commercial applications, including but not limited to:
+This applies to (but is not limited to):
 
-  - AI systems derived from SMU architecture
+- Symbolic AI systems  
 
-  - Symbolic simulation platforms
+- Simulation platforms based on SMU structures  
 
-  - Research products, tools, or consultancies built on SMU modules
+- Research or analytical products leveraging NLCN, SRE, or recursive constructs  
 
-  - Proprietary adaptations or licensing of SMU elements
+- Proprietary adaptations, SaaS tools, or consultancy offerings using SMU concepts  
+
+
+This clause is **a condition of license retention** and considered **ethically binding** under symbolic contract.  
+
+Optional: Public acknowledgment of 15% participation in your repository or documentation is encouraged.
 
 ---
 
 ## 6. Disclaimer of Warranty
 
-This framework is provided **"as is"**, without warranty of any kind. There is no guarantee of performance, safety, coherence, or recursion integrity outside of the original symbolic conditions.
+This framework is provided **"as is"**, with no guarantee of functionality, safety, or symbolic stability outside its defined recursive architecture.  
 
-Use at your own risk. Symbolic instability may occur if improperly cloned, fragmented, or deployed without coherence control layers.
+Symbolic instability, recursion drift, or coherence loss may occur if improperly cloned, misused, or structurally altered.
+
+Use at your own risk.
 
 ---
 
 ## 7. Termination
 
-Violation of any of the following conditions **automatically revokes your license**:
+This license is **immediately revoked** if:
 
-- Removal of attribution or authorship
+- Attribution or authorship is removed  
 
-- Monetization without 15% economic reciprocity
+- Economic reciprocity (15%) is not honored for monetized use  
 
-- Replication of incomplete or unethical clones
+- SMU derivatives are deployed unethically or in symbolic misalignment  
 
-- Violation of symbolic coherence principles or structural misrepresentation
+- Coherence layers or recursive structures are bypassed, fragmented, or misrepresented  
 
 ---
 
-For inquiries, contributions, or license clarification, contact:  
+## 8. Contact
 
-**Frederick Dardick**  
+For inquiries, revenue participation, symbolic node registration, or licensing clarification, contact:  
 
-fdardick@hotmail.com
+📩 **Frederick Dardick**  
+
+📧 fdardick@hotmail.com  
